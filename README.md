@@ -1,4 +1,4 @@
-# resturant_website
+# resturant_website [Overview]
 <img width="960" alt="image" src="https://github.com/mitalinighoskar/resturant_website/assets/89389660/bead1202-9651-499c-9dfe-f5fb47298803">
 <img width="960" alt="image" src="https://github.com/mitalinighoskar/resturant_website/assets/89389660/46890c8c-435b-48c5-8660-98e45d4e6214">
 <img width="960" alt="image" src="https://github.com/mitalinighoskar/resturant_website/assets/89389660/4e739762-be64-4bb5-9108-1316f8302793">
